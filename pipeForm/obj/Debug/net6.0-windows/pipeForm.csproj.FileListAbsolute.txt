@@ -1,0 +1,34 @@
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\pipeForm\bin\Debug\net6.0-windows\pipeForm.exe
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\pipeForm\bin\Debug\net6.0-windows\pipeForm.deps.json
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\pipeForm\bin\Debug\net6.0-windows\pipeForm.runtimeconfig.json
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\pipeForm\bin\Debug\net6.0-windows\pipeForm.dll
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\pipeForm\bin\Debug\net6.0-windows\pipeForm.pdb
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\pipeForm\obj\Debug\net6.0-windows\pipeForm.csproj.AssemblyReference.cache
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\pipeForm\obj\Debug\net6.0-windows\pipeForm.Form1.resources
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\pipeForm\obj\Debug\net6.0-windows\pipeForm.csproj.GenerateResource.cache
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\pipeForm\obj\Debug\net6.0-windows\pipeForm.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\pipeForm\obj\Debug\net6.0-windows\pipeForm.AssemblyInfoInputs.cache
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\pipeForm\obj\Debug\net6.0-windows\pipeForm.AssemblyInfo.cs
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\pipeForm\obj\Debug\net6.0-windows\pipeForm.csproj.CoreCompileInputs.cache
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\pipeForm\obj\Debug\net6.0-windows\pipeForm.dll
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\pipeForm\obj\Debug\net6.0-windows\refint\pipeForm.dll
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\pipeForm\obj\Debug\net6.0-windows\pipeForm.pdb
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\pipeForm\obj\Debug\net6.0-windows\pipeForm.genruntimeconfig.cache
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\pipeForm\obj\Debug\net6.0-windows\ref\pipeForm.dll
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\pipeForm\bin\Debug\net6.0-windows\pipeForm.exe
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\pipeForm\bin\Debug\net6.0-windows\pipeForm.deps.json
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\pipeForm\bin\Debug\net6.0-windows\pipeForm.runtimeconfig.json
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\pipeForm\bin\Debug\net6.0-windows\pipeForm.dll
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\pipeForm\bin\Debug\net6.0-windows\pipeForm.pdb
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\pipeForm\obj\Debug\net6.0-windows\pipeForm.csproj.AssemblyReference.cache
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\pipeForm\obj\Debug\net6.0-windows\pipeForm.Form1.resources
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\pipeForm\obj\Debug\net6.0-windows\pipeForm.csproj.GenerateResource.cache
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\pipeForm\obj\Debug\net6.0-windows\pipeForm.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\pipeForm\obj\Debug\net6.0-windows\pipeForm.AssemblyInfoInputs.cache
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\pipeForm\obj\Debug\net6.0-windows\pipeForm.AssemblyInfo.cs
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\pipeForm\obj\Debug\net6.0-windows\pipeForm.csproj.CoreCompileInputs.cache
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\pipeForm\obj\Debug\net6.0-windows\pipeForm.dll
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\pipeForm\obj\Debug\net6.0-windows\refint\pipeForm.dll
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\pipeForm\obj\Debug\net6.0-windows\pipeForm.pdb
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\pipeForm\obj\Debug\net6.0-windows\pipeForm.genruntimeconfig.cache
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\pipeForm\obj\Debug\net6.0-windows\ref\pipeForm.dll

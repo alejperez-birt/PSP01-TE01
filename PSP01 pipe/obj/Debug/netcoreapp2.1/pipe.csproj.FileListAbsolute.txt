@@ -1,0 +1,13 @@
+G:\Mi unidad\DAM\PSP\PSP01\RepositorioTeoria\PSP01\PSP01 pipe\bin\Debug\netcoreapp2.1\pipe.deps.json
+G:\Mi unidad\DAM\PSP\PSP01\RepositorioTeoria\PSP01\PSP01 pipe\bin\Debug\netcoreapp2.1\pipe.runtimeconfig.json
+G:\Mi unidad\DAM\PSP\PSP01\RepositorioTeoria\PSP01\PSP01 pipe\bin\Debug\netcoreapp2.1\pipe.runtimeconfig.dev.json
+G:\Mi unidad\DAM\PSP\PSP01\RepositorioTeoria\PSP01\PSP01 pipe\bin\Debug\netcoreapp2.1\pipe.dll
+G:\Mi unidad\DAM\PSP\PSP01\RepositorioTeoria\PSP01\PSP01 pipe\bin\Debug\netcoreapp2.1\pipe.pdb
+G:\Mi unidad\DAM\PSP\PSP01\RepositorioTeoria\PSP01\PSP01 pipe\obj\Debug\netcoreapp2.1\pipe.csproj.AssemblyReference.cache
+G:\Mi unidad\DAM\PSP\PSP01\RepositorioTeoria\PSP01\PSP01 pipe\obj\Debug\netcoreapp2.1\pipe.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\DAM\PSP\PSP01\RepositorioTeoria\PSP01\PSP01 pipe\obj\Debug\netcoreapp2.1\pipe.AssemblyInfoInputs.cache
+G:\Mi unidad\DAM\PSP\PSP01\RepositorioTeoria\PSP01\PSP01 pipe\obj\Debug\netcoreapp2.1\pipe.AssemblyInfo.cs
+G:\Mi unidad\DAM\PSP\PSP01\RepositorioTeoria\PSP01\PSP01 pipe\obj\Debug\netcoreapp2.1\pipe.csproj.CoreCompileInputs.cache
+G:\Mi unidad\DAM\PSP\PSP01\RepositorioTeoria\PSP01\PSP01 pipe\obj\Debug\netcoreapp2.1\pipe.dll
+G:\Mi unidad\DAM\PSP\PSP01\RepositorioTeoria\PSP01\PSP01 pipe\obj\Debug\netcoreapp2.1\pipe.pdb
+G:\Mi unidad\DAM\PSP\PSP01\RepositorioTeoria\PSP01\PSP01 pipe\obj\Debug\netcoreapp2.1\pipe.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vtcgS1Dn2NZAiGE3CVROpCCXj+UqeZ8IR5LdyWJt81bHolm/a4vx9OXBc/9yOuLQXKrNekHv+8EqUICrxLsupg==",
+  "success": true,
+  "projectFilePath": "G:\\Mi unidad\\DAM\\PSP\\PSP01\\Tarea Evaluativa 01\\PSP01 pipe\\pipesServidor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexp\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.13\\microsoft.netcore.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\alexp\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.13\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\alexp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.13\\microsoft.aspnetcore.app.runtime.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

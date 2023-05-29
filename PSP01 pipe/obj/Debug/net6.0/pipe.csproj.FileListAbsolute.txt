@@ -1,0 +1,15 @@
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\bin\Debug\net6.0\pipe.exe
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\bin\Debug\net6.0\pipe.deps.json
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\bin\Debug\net6.0\pipe.runtimeconfig.json
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\bin\Debug\net6.0\pipe.dll
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\bin\Debug\net6.0\pipe.pdb
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\obj\Debug\net6.0\pipe.csproj.AssemblyReference.cache
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\obj\Debug\net6.0\pipe.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\obj\Debug\net6.0\pipe.AssemblyInfoInputs.cache
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\obj\Debug\net6.0\pipe.AssemblyInfo.cs
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\obj\Debug\net6.0\pipe.csproj.CoreCompileInputs.cache
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\obj\Debug\net6.0\pipe.dll
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\obj\Debug\net6.0\refint\pipe.dll
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\obj\Debug\net6.0\pipe.pdb
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\obj\Debug\net6.0\pipe.genruntimeconfig.cache
+G:\Mi unidad\DAM\PSP\PSP01\Tarea Evaluativa 01\PSP01 pipe\obj\Debug\net6.0\ref\pipe.dll
